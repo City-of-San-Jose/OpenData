@@ -1,5 +1,7 @@
 This repository contains information about Open Data activities at the City of San José.
 
+October 2018 - The City uploaded the Open Data Community Architecture V3.2 which incorporated feedback from the partners. 
+
 February 2018 - The City released its Open Data Community Architecture V3.0. 
 
 Open Data Community Architecture (ODCA) outlines City's new approach to data management with the goal to enable the City to - 
